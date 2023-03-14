@@ -19,7 +19,7 @@ public class ucak_bileti {
         tip = scan.nextInt();
 
         if (yas < 0 || mesafe < 0 || tip <= 0 || tip > 3) {
-            System.out.println("Hatalı Veri Girişi Yaptınız :( ");
+            System.out.println("Hatalı Veri Girişi Yaptınız  ");
         }
         if(yas < 12){
             if(tip == 1) {
