@@ -63,7 +63,7 @@ public class ucak_bileti {
                 System.out.println("Bilet Fiyatınız : " + indirimF);
             }
         }else{
-            System.out.println("Program Bitti.....");
+            System.out.println("Program Bitti ");
         }
 
         }
