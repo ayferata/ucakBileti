@@ -67,5 +67,4 @@ public class ucak_bileti {
         }
 
         }
-
     }
