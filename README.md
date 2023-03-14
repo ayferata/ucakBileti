@@ -4,8 +4,7 @@ import java.util.Scanner;
 public class ucak_bileti {
     public static void main(String[] args) {
         
-
-       int yas, mesafe = 0, tip;
+        int yas, mesafe = 0, tip;
         double indirimY,indirimT, indirimF, biletF,sonF;
 
         Scanner scan = new Scanner(System.in);
